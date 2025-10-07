@@ -1,0 +1,5 @@
+Data drives decisions. Python makes text processing approachable.
+
+This sample file includes: words, punctuation! Repeated words; mixed CASE, and spacing.
+
+Data analysis starts with CLEAN text. Clean text starts with consistent rules.

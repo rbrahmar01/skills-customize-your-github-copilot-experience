@@ -59,5 +59,25 @@
         }
       ]
     }
+    ,
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Process and analyze raw text: cleaning, statistics, and frequency reporting.",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2025-10-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Text File",
+          "file": "sample.txt",
+          "type": "text"
+        }
+      ]
+    }
   ]
 }
